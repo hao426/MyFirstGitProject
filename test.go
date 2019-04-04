@@ -4,4 +4,5 @@ import "fmt"
 
 func main(){
 	fmt.Println("new file")
+	fmt.Println("hello golang")
 }
